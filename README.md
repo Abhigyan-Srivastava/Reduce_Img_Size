@@ -1,4 +1,4 @@
-# Script Title
+# Reducing Image Size
 #### Script to reduce the size of image file using the openCV library of python.
 
 ### Prerequisites
